@@ -3,6 +3,8 @@
 - 🏫 sou do Colegio Estadual do Campo de Rio do Couro
 - 🤝 estou realizando esse projeto junto com meu amigo Gustavo
 - espero aprender muito com essa plataforma
+![](https://kinsta.com/wp-content/uploads/2018/04/what-is-github-1-1.png)
+
 
 <!---
 Kandanii/Kandanii is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
